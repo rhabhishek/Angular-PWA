@@ -1,4 +1,7 @@
-# AngularPwaApp
+
+# Angular-PWA
+An Angular Progressive Web application with Firebase Cloud Messaging service configured
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
